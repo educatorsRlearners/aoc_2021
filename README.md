@@ -1,7 +1,7 @@
 # Advent of Code 2021
 | ![](images/advent-calendar-ged0e4b097_1280.png) |
 |:--:|
-|<b>Image Credits - [Pixabay](https://pixabay.com/vectors/advent-calendar-advent-calendar-2915165/)|
+|<b>Image Courtesy of [Pixabay](https://pixabay.com/vectors/advent-calendar-advent-calendar-2915165/)|
 
 
 
